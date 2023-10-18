@@ -1,0 +1,33 @@
+canvas {
+    box-shadow: black 20px 10px 50px;
+}
+
+body {
+    overflow:hidden;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    background-image: url("images/space.png");
+}
+
+button {
+    background:#625697;
+    color:ivory;
+    border: solid 5px #625697;
+    border-radius: 50%;
+    text-decoration:none;
+    cursor:pointer;
+    font-size:0.5em;
+    padding:5px 2px;
+    width:30px;
+    outline: none;
+    margin-left: 50px;
+  }
+  
+  
+
+  
+  
